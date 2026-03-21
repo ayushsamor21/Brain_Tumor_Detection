@@ -61,7 +61,3 @@ The model is a Convolutional Neural Network (CNN) consisting of:
 * Dropout (regularization)
 
 ---
-
-## 🔄 Workflow
-
-1. Load MRI images fr
